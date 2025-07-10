@@ -5,14 +5,6 @@ This repository contains a data cleaning project performed on the Titanic datase
 
 ---
 
-## Contents
-
-- `data/train_and_test2_original.csv` – Raw CSV dataset as downloaded from Kaggle
-- `data/train_and_test2_cleaned.sql` – Cleaned SQL dump, ready to be imported into MySQL
-- `mysql_cleaning_steps.sql` – SQL queries used to clean and optimize the dataset
-
----
-
 ## Cleaning Process Overview
 
 The dataset was cleaned in MySQL using the following steps:
